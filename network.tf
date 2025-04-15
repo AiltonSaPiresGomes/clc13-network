@@ -4,7 +4,7 @@ resource "aws_vpc" "minha_vpc" {
   instance_tenancy = "default"
 
   tags = {
-    Name = "tf-vpc-automation-3"
+    Name = "tf-vpc-ailton-automation-testando"
   }
 }
 
